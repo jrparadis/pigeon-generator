@@ -3,6 +3,11 @@ generates pigeons with random data using the mimesis library
 (a pointless exercise in classes):
 
 
+
+
+
+
+
 a ⚲ white pigeon with grey barless pattern, named Shawnda Mills
 they have this to say: 
 
